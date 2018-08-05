@@ -6,7 +6,7 @@ The flow is a basic cash issuance, balance check, payment and subsequent balance
 
 Uses Corda 3.2 OSS.
 
-[Line 49](cordapp/src/test/kotlin/com/template/NodeDriver.kt#49)
+[Line 49](cordapp/src/test/kotlin/com/template/NodeDriver.kt#L49)
 
 The output log from the line
 
